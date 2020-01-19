@@ -1,0 +1,5 @@
+RUN the following commands in the project root directory:
+
+mkdir bootstrap\cache
+mkdir vendor
+composer install
